@@ -22,10 +22,10 @@
                  <li>
                      <a href="javascript: void(0);" class="has-arrow waves-effect">
                          <i class="ri-hotel-fill"></i>
-                         <span>Manage Suppliers</span>
+                         <span>Manage Plant</span>
                      </a>
                      <ul class="sub-menu" aria-expanded="false">
-                         <li><a href="{{ route('supplier.all') }}">All Supplier</a></li>
+                         <li><a href="{{ route('supplier.all') }}">All Plant</a></li>
 
                      </ul>
                  </li>
